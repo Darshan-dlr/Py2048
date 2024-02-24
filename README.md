@@ -59,3 +59,19 @@ Use the arrow keys to move tiles on the game board. Combine tiles with the same 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, feature requests, or bug reports, please open an issue or create a pull request.
+
+## Latest Release
+
+**Version:** v1.0  
+**Release Date:** February 26, 2024
+
+We're excited to announce the release of version 1.0 of our game! This release includes several new features and enhancements, including:
+
+- Added a new dark mode theme for a modern look and feel.
+- Implemented a restart option upon game over.
+- Improved game won and game over notifications.
+- Updated the executable file (`2048.exe`) for easy download and installation.
+
+For more details, check out the [release notes](https://github.com/Darshan-dlr/Py2048/releases/tag/v1.0).
+
+Happy gaming!
